@@ -1,4 +1,4 @@
-import dsa.arrays_sort as arysrt
-from dsa.test_var import arr1
+import dsa.arrays_sort as arst
+import dsa.test_var as tv
 
-arysrt.bubble_sort(arr1)
+arst.my_selection_sort(tv.arr1)
